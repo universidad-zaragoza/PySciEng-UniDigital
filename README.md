@@ -22,7 +22,7 @@ Hacer accesibles códigos en Python relacionados con áreas de las ciencias y la
 # Contenidos
 El curso incluye ejemplos de las áreas de Termodinámica (TERMO) y las Ondas electromagnéticas (OEM).
  ---
-+ Introducción a Python mediante ejemplos
++ [Introducción a Python mediante ejemplos](intro_python.ipynb)
 + Introducción al cálculo vectorial con Python
 + OEM: Corrientes de deplazamiento: carga de un condensador
 + OEM: Reflexión en una lámina dieléctrica (ejemplo de tratamiento de errores estadísticos)
