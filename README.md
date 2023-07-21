@@ -25,7 +25,7 @@ El curso incluye ejemplos de las áreas de Termodinámica (TERMO) y las Ondas el
 + [Introducción a Python mediante ejemplos](contenidos/intro_python.ipynb)
 + [Introducción al cálculo vectorial con Python](contenidos/intro_calculo_vectorial.ipynb)
 + [Corrientes de deplazamiento: carga de un condensador](contenidos/oem_ejercicio_desplazamiento.ipynb)
-+ [Reflexión en una lámina dieléctrica (ejemplo de tratamiento de errores estadísticos)](contenidos/oem_reflexión lámina delgada y errores.ipynb)
++ [Reflexión en una lámina dieléctrica - ejemplo de tratamiento de errores estadísticos](contenidos/oem_reflexión lámina delgada y errores.ipynb)
 + [Ondas planas en medios conductores](contenidos/oem_ondas_planas.ipynb)
 + [Solución numérica de las ecuaciones de Maxwell: el método FDTD](contenidos/oem_fdtd_1D_onda_plana.ipynb)
 + [Introducción a la termodinámica técnica con PyroMat](contenidos/TTyFTC_1.ipynb)
