@@ -22,14 +22,14 @@ Hacer accesibles códigos en Python relacionados con áreas de las ciencias y la
 # Contenidos
 El curso incluye ejemplos de las áreas de Termodinámica (TERMO) y las Ondas electromagnéticas (OEM).
  ---
-+ [Introducción a Python mediante ejemplos](contenidos\intro_python.ipynb)
-+ Introducción al cálculo vectorial con Python
-+ OEM: Corrientes de deplazamiento: carga de un condensador
-+ OEM: Reflexión en una lámina dieléctrica (ejemplo de tratamiento de errores estadísticos)
-+ OEM: Ondas planas en medios conductores
-+ OEM: Solución numérica de las ecuaciones de Maxwell: el método FDTD
-+ TERMO: Introducción a la termodinámica técnica con PyroMat
-+ TERMO: Resolución numérica de la ecuación del calor
-+ TERMO: Resolución numérica de la distribución de temperatura en una aleta
++ [Introducción a Python mediante ejemplos](contenidos/intro_python.ipynb)
++ [Introducción al cálculo vectorial con Python](contenidos/intro_calculo_vectorial.ipynb)
++ [Corrientes de deplazamiento: carga de un condensador](contenidos/oem_ejercicio_desplazamiento.ipynb)
++ [Reflexión en una lámina dieléctrica (ejemplo de tratamiento de errores estadísticos)](contenidos/oem_reflexión lámina delgada y errores.ipynb)
++ [Ondas planas en medios conductores](contenidos/oem_ondas_planas.ipynb)
++ [Solución numérica de las ecuaciones de Maxwell: el método FDTD](contenidos/oem_fdtd_1D_onda_plana.ipynb)
++ [Introducción a la termodinámica técnica con PyroMat](contenidos/TTyFTC_1.ipynb)
++ [Resolución numérica de la ecuación del calor](contenidos/TTyFTC_2.ipynb)
++ [Resolución numérica de la distribución de temperatura en una aleta](contenidos/TTyFTC_3.ipynb)
 
   <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Python en ciencias e ingeniería: tutoriales basados en ejemplos</span> por <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Sergio Gutiérrez Rodrigo y Adrián Navas Montilla</span> se distribuye bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional</a>.
